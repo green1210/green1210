@@ -1,33 +1,32 @@
 <!-- ====== BANNER ====== -->
 <p align="center">
-  <img src="https://github.com/nagamanikanta1210/nagamanikanta1210/blob/main/Banner.png" alt="banner" width="100%" />
+  <img src="https://github.com/nagamanikanta1210/nagamanikanta1210/blob/main/Banner.png" alt="Banner" width="100%" />
 </p>
 
 <!-- ====== HEADER ====== -->
-<h1 align="center">👋 Hi, I’m Nagamanikanta Nallaganchu</h1>
-<h3 align="center">Fullstack Developer || AI/ML Enthusiast || Prompt Engineer || Aspiring Data Analyst </h3>
+<h1 align="center">👋 Hey there, I’m Nagamanikanta Nallaganchu</h1>
+<h3 align="center">Full-Stack Developer • AI/ML Enthusiast • Prompt Engineer • Aspiring Data Analyst</h3>
 
 <!-- ====== TYPING HIGHLIGHT ====== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=EFEFEF&center=true&vCenter=true&width=550&lines=Turning+Data+into+Decisions;Building+Full+Stack+Solutions;Learning+and+Growing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F58C&center=true&vCenter=true&width=550&lines=Turning+Data+into+Decisions;Building+Full-Stack+Solutions;Learning+and+Growing+Daily" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🎓 **Parul University**, Vadodara, Gujarat (Class of 2026)  
-- 🧠**Full-Stack Developer** (MERN), **AI/ML Enthusiast**, **Prompt Engineer** & Aspiring **Data Analyst**
-- 🌱 Passionate about data insights, clean code, and scalable architectures  
-- 🌐 Languages: Telugu • English • Hindi  
-- ✨ Fun Fact: My Social name is Green!
+- 🎓 **Parul University**, Vadodara, Gujarat — *B.Tech, Class of 2026*
+- 💻 **Full-Stack Developer (MERN)** | **AI/ML Enthusiast** | **Prompt Engineer** | Aspiring **Data Analyst**
+- 🌱 Passionate about data insights, clean code, and scalable architecture
+- 🌐 Languages: **Telugu** • **English** • **Hindi**
+- ✨ **Fun Fact:** My social nickname is **Green**
 
 ---
 
-## 🛠️ Tech & Tools
+## ⚙️ Tech Stack
 
 <details>
   <summary><strong>Languages & Frameworks</strong></summary>
-
   <p>
     <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white" />
@@ -44,7 +43,6 @@
 
 <details>
   <summary><strong>Tools & Platforms</strong></summary>
-
   <p>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
@@ -57,25 +55,25 @@
 
 ## 🌟 Featured Projects
 
-| 🚀 Project                     | 📝 Description                                                      | 🔗 Link           |
-| ----------------------------- | ------------------------------------------------------------------ | ---------------- |
-| **Library Management System** | Flask & MySQL app tracking books, members, and loans               | [Repo](#)        |
-| **Task Management Tool**      | Kanban board with user auth (Node.js, Express & MongoDB)           | [Repo](#)        |
-| **E-Commerce Site**           | Full-stack shopping platform (React, Node.js & MongoDB)            | [Repo](#)        |
-| **MyPortfolio**               | Personal site showcasing work (HTML, CSS, JS)                      | [Live](#)        |
-| **UniConnect**                | Final-year BTP: Campus portal for resources, issue reporting & polls | [Repo](#)      |
+| 🚀 Project                     | 📝 Description                                                       | 🔗 Link   |
+| ----------------------------- | --------------------------------------------------------------------- | -------- |
+| **Library Management System** | Flask & MySQL app to track books, members, and loans                 | [Repo](#) |
+| **Task Management Tool**      | Kanban board with user authentication (Node.js, Express & MongoDB)   | [Repo](#) |
+| **E-Commerce Site**           | Full-stack shopping platform (React, Node.js & MongoDB)              | [Repo](#) |
+| **MyPortfolio**               | Personal portfolio showcasing projects (HTML, CSS, JS)               | [Live](#) |
+| **UniConnect**                | Final-year BTP: Campus portal for resources, reporting & polls       | [Repo](#) |
 
 ---
 
 ## 🌍 My Vision
 
-- 📊 **Master data analytics** to uncover actionable insights from complex datasets  
-- 🖥️ **Build full-stack applications** with seamless, user-friendly experiences  
-- 🤖 **Contribute to AI-driven open-source** projects to push the boundaries  
+- 📊 **Master data analytics** to extract actionable insights from complex datasets
+- 💻 **Build full-stack applications** with seamless, intuitive experiences
+- 🤖 **Contribute to AI-driven open-source** projects that make a difference
 
 ---
 
-## 📫 Let’s Connect
+## 📫 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/nagamanikanta1210" target="_blank">
