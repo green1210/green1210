@@ -1,75 +1,84 @@
-<!-- ====== BANNER ====== -->
+<!-- ====== ANIMATED BANNER ====== -->
 <p align="center">
   <img src="https://github.com/nagamanikanta1210/nagamanikanta1210/blob/main/Banner.png" alt="Banner" width="100%" />
 </p>
 
-<!-- ====== HEADER ====== -->
-<h1 align="center">👋 Hey there, I’m Nagamanikanta Nallaganchu</h1>
-<h3 align="center">Full-Stack Developer • AI/ML Enthusiast • Prompt Engineer • Aspiring Data Analyst</h3>
+<!-- ====== WAVE EMOJI ANIMATION ====== -->
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" /> Hey there, I'm Nagamanikanta
+</h1>
 
-<!-- ====== TYPING HIGHLIGHT ====== -->
+<h3 align="center">💻 Full-Stack Developer • 🤖 AI/ML Enthusiast • ✨ Prompt Engineer • 📊 Aspiring Data Analyst</h3>
+
+<!-- ====== TYPING ANIMATION ====== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F58C&center=true&vCenter=true&width=550&lines=Turning+Data+into+Decisions;Building+Full-Stack+Solutions;Learning+and+Growing+Daily" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFAA&center=true&vCenter=true&width=550&lines=Turning+Data+into+Decisions;Building+Full-Stack+Solutions;Learning+and+Growing+Every+Day" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🎓 **Parul University**, Vadodara, Gujarat — *B.Tech, Class of 2026*
-- 💻 **Full-Stack Developer (MERN)** | **AI/ML Enthusiast** | **Prompt Engineer** | Aspiring **Data Analyst**
-- 🌱 Passionate about data insights, clean code, and scalable architecture
-- 🌐 Languages: **Telugu** • **English** • **Hindi**
-- ✨ **Fun Fact:** My social nickname is **Green**
+- 🎓 **Parul University**, Vadodara (B.Tech, Class of 2026)
+- 💻 **Full-Stack Developer (MERN)** | 🤖 **AI/ML Enthusiast** | 🏆 **Prompt Engineer** | 📈 Aspiring **Data Analyst**
+- 🌱 Passionate about transforming **data** into **actionable insights**
+- 🌐 **Languages:** Telugu • English • Hindi
+- ✨ **Fun Fact:** People call me "**Green**" 🌿
 
 ---
 
 ## ⚙️ Tech Stack
 
-<details>
-  <summary><strong>Languages & Frameworks</strong></summary>
-  <p>
-    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=flat&logo=express&logoColor=white" />
-    <img src="https://img.shields.io/badge/React-%2320232A.svg?style=flat&logo=react&logoColor=%2361DAFB" />
-    <img src="https://img.shields.io/badge/MongoDB-%234EA94B.svg?style=flat&logo=mongodb&logoColor=white" />
-    <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white" />
-  </p>
-</details>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,nodejs,express,react,mongodb,mysql,git,github,vscode,postman" />
+</p>
 
-<details>
-  <summary><strong>Tools & Platforms</strong></summary>
-  <p>
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
-  </p>
-</details>
+---
+
+## 🏆 GitHub Stats, Trophies & Streaks
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nagamanikanta1210&theme=radical&no-frame=true&no-bg=true&margin-w=10" alt="Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nagamanikanta1210&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nagamanikanta1210&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
 ## 🌟 Featured Projects
 
-| 🚀 Project                     | 📝 Description                                                       | 🔗 Link   |
-| ----------------------------- | --------------------------------------------------------------------- | -------- |
-| **Library Management System** | Flask & MySQL app to track books, members, and loans                 | [Repo](#) |
-| **Task Management Tool**      | Kanban board with user authentication (Node.js, Express & MongoDB)   | [Repo](#) |
-| **E-Commerce Site**           | Full-stack shopping platform (React, Node.js & MongoDB)              | [Repo](#) |
-| **MyPortfolio**               | Personal portfolio showcasing projects (HTML, CSS, JS)               | [Live](#) |
-| **UniConnect**                | Final-year BTP: Campus portal for resources, reporting & polls       | [Repo](#) |
+| 🚀 Project                     | 📝 Description                                                    | 📺 Preview / Link   |
+| ----------------------------- | ------------------------------------------------------------------ | ------------------ |
+| **Library Management System** | Flask & MySQL app to track books, members, and loans               | ![Preview](URL) [Repo](#) |
+| **Task Management Tool**      | Kanban board with auth (Node.js, Express, MongoDB)                 | ![Preview](URL) [Repo](#) |
+| **E-Commerce Site**           | Full-stack store (React, Node.js & MongoDB)                        | ![Preview](URL) [Repo](#) |
+| **MyPortfolio**               | Personal portfolio website                                         | ![Preview](URL) [Live](#) |
+| **UniConnect**                | Campus portal for students with reporting, polls, and resources   | ![Preview](URL) [Repo](#) |
+
+> 🔔 **Replace** `![Preview](URL)` with **GIFs of your projects or Lottie animations** hosted on Giphy/Imgur
+
+---
+
+## 🎨 Fun Touch — Animated Lottie (Optional)
+
+<p align="center">
+  <a href="https://lottiefiles.com/" target="_blank">
+    <img src="https://assets6.lottiefiles.com/private_files/lf30_oqpbtola.json" alt="Lottie Animation Example" width="300" />
+  </a>
+</p>
 
 ---
 
 ## 🌍 My Vision
 
-- 📊 **Master data analytics** to extract actionable insights from complex datasets
-- 💻 **Build full-stack applications** with seamless, intuitive experiences
-- 🤖 **Contribute to AI-driven open-source** projects that make a difference
+- 📊 **Master** data analytics to uncover **valuable insights**
+- 🖥️ Build **full-stack applications** with delightful user experiences
+- 🤖 Contribute to **AI-driven open-source** projects worldwide
 
 ---
 
@@ -77,16 +86,16 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/nagamanikanta1210" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:nagamanikanta1210@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:nagamanikanta1210@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://instagram.com/_green_1210" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<p align="center">Made with ❤️ by Nagamanikanta Nallaganchu • © 2025</p>
+<p align="center">✨ Made with ❤️ by Nagamanikanta Nallaganchu • © 2025 ✨</p>
