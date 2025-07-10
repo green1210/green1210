@@ -2,13 +2,10 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Nagamanikanta%20Nallaganchu&fontSize=45&fontAlign=50&animation=fadeIn" alt="Nagamanikanta Nallaganchu Banner" />
 </p>
-
 <!-- ✅ Typing Role Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=🚀+Full-Stack+Developer;🤖+AI+%26+ML+Enthusiast;📊+Aspiring+Data+Analyst;🧠+Prompt+Engineer+%7C+Tech+Problem+Solver" alt="Typing Animation" />
 </p>
-
-
 <!-- 🔥 Tagline -->
 <p align="center">
   <b><i>Mastering data analytics, building intelligent web solutions, and pushing the boundaries of AI</i></b>
