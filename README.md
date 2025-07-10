@@ -1,95 +1,93 @@
-<!-- ====== BANNER ====== -->
-<p align="center">
-  <img src="https://github.com/nagamanikanta1210/nagamanikanta1210/blob/main/Banner.png" alt="banner" width="100%" />
-</p>
+<!-- GitHub Profile README for Nagamanikanta Nallaganchu -->
 
-<!-- ====== HEADER ====== -->
-<h1 align="center">👋 Hi, I’m Nagamanikanta Nallaganchu</h1>
-<h3 align="center">Fullstack Developer || AI/ML Enthusiast || Prompt Engineer || Aspiring Data Analyst </h3>
+<h1 align="center">👋 Hey there, I'm Nagamanikanta Nallaganchu</h1>
 
-<!-- ====== TYPING HIGHLIGHT ====== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=EFEFEF&center=true&vCenter=true&width=550&lines=Turning+Data+into+Decisions;Building+Full+Stack+Solutions;Learning+and+Growing" alt="Typing SVG" />
+  <b>Full-Stack Developer (MERN) | Prompt Engineer | Aspiring Data Analyst</b><br>
+  <i>Crafting code, analyzing data, and building AI-driven solutions</i>
 </p>
 
 ---
 
-## 🚀 About Me
-- 🎓 **Parul University**, Vadodara, Gujarat (Class of 2026)  
-- 🧠**Full-Stack Developer** (MERN), **AI/ML Enthusiast**, **Prompt Engineer** & Aspiring **Data Analyst**
-- 🌱 Passionate about data insights, clean code, and scalable architectures  
-- 🌐 Languages: Telugu • English • Hindi  
-- ✨ Fun Fact: My Social name is Green!
+## 🧠 About Me
+
+🎓 B.Tech in CSE (AI & Data Science)  
+🌟 Passionate about **Full-Stack Development**, **AI/ML**, and **Prompt Engineering**  
+🔭 Currently building scalable web apps and analyzing real-world data  
+💬 Ask me about **React, Node.js, Python, Machine Learning, or APIs**
 
 ---
 
-## 🛠️ Tech & Tools
+## 🚀 Tech Stack
 
-<details>
-  <summary><strong>Languages & Frameworks</strong></summary>
+<div align="center">
 
-  <p>
-    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=flat&logo=express&logoColor=white" />
-    <img src="https://img.shields.io/badge/React-%2320232A.svg?style=flat&logo=react&logoColor=%2361DAFB" />
-    <img src="https://img.shields.io/badge/MongoDB-%234EA94B.svg?style=flat&logo=mongodb&logoColor=white" />
-    <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white" />
-  </p>
-</details>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 
-<details>
-  <summary><strong>Tools & Platforms</strong></summary>
-
-  <p>
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
-  </p>
-</details>
+</div>
 
 ---
 
-## 🌟 Featured Projects
+## 💼 Featured Projects
 
-| 🚀 Project                     | 📝 Description                                                      | 🔗 Link           |
-| ----------------------------- | ------------------------------------------------------------------ | ---------------- |
-| **Library Management System** | Flask & MySQL app tracking books, members, and loans               | [Repo](#)        |
-| **Task Management Tool**      | Kanban board with user auth (Node.js, Express & MongoDB)           | [Repo](#)        |
-| **E-Commerce Site**           | Full-stack shopping platform (React, Node.js & MongoDB)            | [Repo](#)        |
-| **MyPortfolio**               | Personal site showcasing work (HTML, CSS, JS)                      | [Live](#)        |
-| **UniConnect**                | Final-year BTP: Campus portal for resources, issue reporting & polls | [Repo](#)      |
+### 🔹 [Reeltix](#)
+🎬 **AI-powered Movie Ticket Booking Website**  
+> Built entirely using AI models and prompt engineering – no code written manually.
+
+### 🔹 [Zenlify](#)
+🛍️ **Scalable E-Commerce Web App (MERN + Vite)**  
+> Full shopping experience with authentication, cart, and checkout.
+
+### 🔹 [UniConnect](#)
+🏫 **Campus Student Connectivity Platform**  
+> Issue reporting, study resources, university map & more – tailored for students.
+
+### 🔹 [Sentiment Analysis on Tweets](#)
+💬 **ML Project with 79% Accuracy**  
+> Used TF-IDF + Logistic Regression on Sentiment140 dataset (Python, NLTK, scikit-learn)
+
+### 🔹 [Taskflow](#)
+✅ **Minimal Task Management App**  
+> Plan, organize, and conquer your day with a clean UI.
+
+### 🔹 [Library Management CLI](#)
+📚 **Command-Line Based Library System**  
+> Built using Python and SQLite – clean, simple, and effective.
 
 ---
 
-## 🌍 My Vision
+## 🌱 My Vision
 
-- 📊 **Master data analytics** to uncover actionable insights from complex datasets  
-- 🖥️ **Build full-stack applications** with seamless, user-friendly experiences  
-- 🤖 **Contribute to AI-driven open-source** projects to push the boundaries  
+- 📊 **Master data analytics** to derive insights from real-world data  
+- 🖥️ **Build full-stack applications** with seamless UI/UX  
+- 🤖 **Contribute to AI-driven open-source projects** that create impact
 
 ---
 
-## 📫 Let’s Connect
+## 📬 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/nagamanikanta1210" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:nagamanikanta1210@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://instagram.com/_green_1210" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
+  <a href="mailto:nagamanikanta1210@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/nagamanikanta-nallaganchu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-121212?style=flat&logo=github&logoColor=white" alt="Portfolio"></a>
 </p>
 
 ---
 
-<p align="center">Made with ❤️ by Nagamanikanta Nallaganchu • © 2025</p>
-enhanced it
+<p align="center">
+  <i>"Code is the canvas. AI is the brush. Innovation is the masterpiece."</i> 🎨
+</p>
+
+<p align="center">
+  🚀 Always open to collaboration and innovative ideas!
+</p>
