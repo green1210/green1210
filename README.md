@@ -5,23 +5,6 @@
 
 
 
-<!-- ✨ Wave Divider for Smoother Transition -->
-<p align="center">
-  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" width="100%" />
-</p>
-
-<p align="center">
-  🚀 Full-Stack Developer | AI & ML | Data Science Enthusiast | Prompt Engineer
-</p>
-
-<p align="center">
-  <em>Mastering data analytics, building intelligent web solutions, and pushing the boundaries of AI</em>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=green1210&label=Profile%20views&color=0e75b6&style=flat" alt="green1210" />
-</p>
-
 
 <!-- Top Banner -->
 <p align="center">
