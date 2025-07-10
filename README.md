@@ -1,20 +1,45 @@
-<!-- Profile README for Nagamanikanta Nallaganchu -->
+👋 Hey there, I'm Nagamanikanta Nallaganchu!
+Aspiring Data Analyst | Full-Stack Developer | AI & ML Enthusiast
 
-<!-- Hero Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=200&section=header&text=Nagamanikanta%20Nallaganchu&fontSize=40&fontColor=00C2FF&animation=fadeIn" alt="banner"/>
+🚀 About Me
+I'm a B.Tech CSE student specializing in AI & Data Science, passionate about crafting seamless, user-friendly applications and uncovering insights from complex datasets. With expertise in full-stack web development, AI, ML, and prompt engineering, I love building innovative solutions and contributing to open-source projects.
+🌟 My Vision:  
 
-<!-- Typing Animation -->
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=0fffc7&center=true&vCenter=true&width=900&lines=Full-Stack+Developer+%F0%9F%92%BB;Prompt+Engineer+%F0%9F%A4%96;Aspiring+Data+Analyst+%F0%9F%93%8A;Lifelong+Learner+%E2%9C%A8" alt="Typing SVG" />
-</h2>
+📊 Master data analytics to derive actionable insights.  
+🖥️ Build scalable, user-centric full-stack applications.  
+🤖 Contribute to AI-driven open-source projects to push boundaries.
 
----
 
-### 👨‍💻 About Me
+🛠️ Tech Stack
+Languages
+  
+Frameworks & Libraries
+  
+Databases
+  
+Tools
+  
 
-```yaml
-Name: Nagamanikanta Nallaganchu
-Role: Full-Stack Developer | Prompt Engineer | Aspiring Data Analyst
-Degree: B.Tech CSE (AI & Data Science)
-University: Parul University
-Languages: [ Telugu, English, Hindi ]
+🌟 Featured Projects
+Uniconnect
+A campus student connectivity app fostering collaboration and networking.🛠️ Tech: MERN Stack🔗 View Project
+Reeltix
+A fully functional movie ticket booking web app built entirely with AI and prompt engineering.🛠️ Tech: AI Models, Prompt Engineering🔗 View Project
+Zenlify
+A modern, scalable e-commerce platform built with the MERN stack and Vite.🛠️ Tech: MongoDB, Express, React, Node.js, Vite🔗 View Project
+Sentiment Analysis on Tweets
+Analyzed tweet sentiments using the Sentiment140 dataset with ~79% accuracy.🛠️ Tech: Python, pandas, scikit-learn, nltk🔗 View Project
+Taskflow
+A sleek, minimal task management app to plan and organize your day.🛠️ Tech: MERN Stack🔗 View Project
+My Portfolio
+A personal portfolio showcasing my projects and skills.🛠️ Tech: HTML, CSS, JavaScript, React🔗 View Project
+Library Management
+A command-line library management system for efficient book tracking.🛠️ Tech: Python, SQLite🔗 View Project
+
+📊 GitHub Stats
+
+
+📫 Let's Connect!
+
+
+“Code is like humor. When you have to explain it, it’s bad.” – Cory House
