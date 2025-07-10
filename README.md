@@ -87,3 +87,42 @@
   <sub>Made with ❤️ by Nagamanikanta Nallaganchu</sub>
 </div>
 
+
+---
+
+## 🚀 Featured Projects
+
+| 🚀 Project               | 💡 Description                                                            | 🔗 Link      |
+|-------------------------|----------------------------------------------------------------------------|-------------|
+| **UniConnect**          | Campus portal for resources, feedback & issue reporting (Final Year BTP) | [Repo](#)   |
+| **Zenlify**             | Scalable full-stack e-commerce app (MERN + Vite)                          | [Repo](#)   |
+| **Reeltix**             | AI-generated movie ticket booking site using TMDB API                     | [Repo](#)   |
+| **Portfolio Website**   | Minimal, modern personal portfolio built with React & TailwindCSS         | [Live](#)   |
+| **Taskflow**            | Sleek Kanban-style task manager with auth (Node, Express, MongoDB)        | [Repo](#)   |
+| **Library Manager**     | CLI tool for book tracking using Python & MySQL                           | [Repo](#)   |
+
+> 📌 *Live demos & screenshots are available in respective repos.*
+
+---
+
+## 🎯 Vision
+
+- 📊 **Become a data-driven decision maker** using advanced analytics
+- 🌍 **Build real-world solutions** that solve genuine user pain-points
+- 🤖 **Contribute to AI & prompt engineering-based open source projects**
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/green1210"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://instagram.com/yourusername"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  Made with ❤️ by <strong>Nagamanikanta Nallaganchu</strong>
+</p>
