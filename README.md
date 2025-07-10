@@ -50,46 +50,6 @@
 
 ---
 
-### 🚀 Projects
-
-| Project           | Description                                                                                                  | Tech Stack                         |
-|-------------------|--------------------------------------------------------------------------------------------------------------|----------------------------------|
-| **Uniconnect**    | Campus student connectivity application                                                                     | React, Node.js, MongoDB          |
-| **MyPortfolio**   | Personal portfolio website showcasing skills and projects                                                    | React, TailwindCSS               |
-| **Reeltix**       | Movie ticket booking app built entirely using AI models and prompt engineering (no code)                     | AI Models, Prompt Engineering    |
-| **Zenlify**       | Modern, scalable e-commerce web app built with MERN stack and Vite                                          | MongoDB, Express, React, Node.js, Vite |
-| **Sentiment Analysis on Tweets** | Sentiment classification on Sentiment140 dataset using Logistic Regression (~79% accuracy)          | Python, pandas, scikit-learn, nltk |
-| **Library Management** | Command-line library management system                                                                      | Python, SQLite                   |
-| **Taskflow**      | Minimal task management app to organize daily tasks                                                          | React                           |
-
----
-
-## 🎯 Vision
-
-- 📊 **Become a data-driven decision maker** using advanced analytics
-- 🌍 **Build real-world solutions** that solve genuine user pain-points
-- 🤖 **Contribute to AI & prompt engineering-based open source projects**
-
----
-
-### 📫 Connect with me
-
-<p align="center">
-  <a href="https://linkedin.com/in/NagamanikantaNallaganchu" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://twitter.com/NagamanikantaN" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter" /></a>
-  <a href="https://instagram.com/NagamanikantaN" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" /></a>
-  <a href="mailto:nagamanikanta@example.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" /></a>
-</p>
-
----
-
-<div align="center">
-  <sub>Made with ❤️ by Nagamanikanta Nallaganchu</sub>
-</div>
-
-
----
-
 ## 🚀 Featured Projects
 
 | 🚀 Project               | 💡 Description                                                            | 🔗 Link      |
@@ -119,6 +79,7 @@
   <a href="https://linkedin.com/in/green1210"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://instagram.com/yourusername"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://twitter.com/NagamanikantaN" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter" /></a>
 </p>
 
 ---
