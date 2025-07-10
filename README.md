@@ -1,11 +1,14 @@
-<!-- Header with waving animation -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Nagamanikanta%20Nallaganchu&fontSize=60&animation=fadeIn" alt="Nagamanikanta Nallaganchu" />
-  <h3>🚀 Full-Stack Developer | AI & Data Science Enthusiast | Prompt Engineer</h3>
-  <p>Mastering data analytics, building seamless full-stack apps, and pushing AI boundaries 🤖</p>
-  <img src="https://komarev.com/ghpvc/?username=NagamanikantaNallaganchu&color=blue" alt="Profile Views" />
-</div>
+<!-- Animated Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Nagamanikanta%20Nallaganchu&fontSize=60&animation=fadeIn" alt="Nagamanikanta Nallaganchu banner"/>
 
+<h3 align="center">🚀 Full-Stack Developer | AI & Data Science Enthusiast | Prompt Engineer</h3>
+<p align="center">
+  Mastering data analytics, building seamless full-stack apps, and pushing AI boundaries 🤖  
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=green1210&label=Profile%20views&color=0e75b6&style=flat" alt="green1210" />
+</p>
 ---
 
 ### 👨‍💻 About Me
