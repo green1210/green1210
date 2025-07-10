@@ -33,8 +33,9 @@
   <img src="https://img.shields.io/badge/AI%2FML-Enthusiast-purple?style=flat-square&logo=python" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Prompt%20Engineer-Creative-red?style=flat-square&logo=openai" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Data%20Analyst-In%20Progress-blue?style=flat-square&logo=google-analytics" />
 </p>
-
 
 
 <!-- Top Banner -->
