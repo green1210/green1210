@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  🚀 Full-Stack Developer | AI & Data Science Enthusiast | Prompt Engineer
+  🚀 Full-Stack Developer | AI & ML | Data Science Enthusiast | Prompt Engineer
 </p>
 
 <p align="center">
