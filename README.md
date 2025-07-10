@@ -3,36 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Nagamanikanta%20Nallaganchu&fontSize=45&fontAlign=50&animation=fadeIn" alt="Nagamanikanta Nallaganchu Banner" />
 </p>
 
-<!-- 🎯 Top Animated Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00F4,100:E60073&height=180&section=header&text=Nagamanikanta%20Nallaganchu&fontSize=45&fontAlignY=40&animation=fadeIn" />
-</p>
 
-<!-- 🎬 Typing Role Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=🚀+Full-Stack+Developer;🤖+AI+%26+ML+Enthusiast;📊+Aspiring+Data+Analyst;🧠+Prompt+Engineer+%7C+Tech+Problem+Solver" alt="Typing Animation" />
-</p>
-
-<!-- 🔥 Tagline / Mission Statement -->
-<p align="center">
-  <b><i>Mastering data analytics, building intelligent web solutions, and pushing the boundaries of AI</i></b>
-</p>
-
-<!-- 🔻 Smooth Animated Divider (Custom Rainbow Line) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="75%" />
-</p>
-
-<!-- 🌐 Profile Stats + Badges -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=green1210&label=Profile+Views&color=0e75b6&style=flat-square" alt="green1210" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/MERN%20Stack-Full--Stack-green?style=flat-square&logo=react" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/AI%2FML-Enthusiast-purple?style=flat-square&logo=python" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-blue?style=flat-square&logo=github" />
-</p>
 
 <!-- ✨ Wave Divider for Smoother Transition -->
 <p align="center">
