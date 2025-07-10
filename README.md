@@ -3,6 +3,24 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Nagamanikanta%20Nallaganchu&fontSize=45&fontAlign=50&animation=fadeIn" alt="Nagamanikanta Nallaganchu Banner" />
 </p>
 
+<!-- Animated Wave Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00F4,100:E60073&height=180&section=header&text=Nagamanikanta%20Nallaganchu&fontSize=45&fontAlignY=40&animation=fadeIn" />
+</p>
+
+<!-- Typing Animation Subtitle -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=🚀+Full-Stack+Developer;🤖+AI+%26+ML+Enthusiast;📊+Data+Analyst+in+progress;🧠+Prompt+Engineer" alt="Typing Animation" />
+</p>
+
+<!-- Tagline -->
+<p align="center"><i>Mastering data analytics, building intelligent web solutions, and pushing the boundaries of AI</i></p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=green1210&style=flat-square&label=Profile+Views" alt="green1210" />
+</p>
+
+
 <p align="center">
   🚀 Full-Stack Developer | AI & ML | Data Science Enthusiast | Prompt Engineer
 </p>
