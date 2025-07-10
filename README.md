@@ -10,21 +10,11 @@
 
 ### 👨‍💻 About Me
 
-const Nagamanikanta = {
-education: "B.Tech in CSE (AI & Data Science specialization)",
-skills: [
-"HTML", "CSS", "JavaScript", "TailwindCSS", "React",
-"Node.js", "Express", "MongoDB", "MySQL",
-"Python", "Java"
-],
-tools: ["Git", "GitHub", "VSCode", "Postman"],
-expertise: ["Full-Stack Development", "AI", "ML", "Prompt Engineering", "Data Analysis"],
-vision: [
-"Master data analytics to uncover actionable insights 📊",
-"Build seamless, user-friendly full-stack applications 🖥️",
-"Contribute to AI-driven open-source projects 🤖"
-]
-};
+🎓 Parul University, Vadodara, Gujarat (Class of 2026)
+🧠Full-Stack Developer (MERN), AI/ML Enthusiast, Prompt Engineer & Aspiring Data Analyst
+🌱 Passionate about data insights, clean code, and scalable architectures
+🌐 Languages: Telugu • English • Hindi
+✨ Fun Fact: My Social name is Green!
 
 
 ---
