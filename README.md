@@ -36,19 +36,6 @@
 </p>
 
 
-<!-- 📊 Profile Views and Role Badges -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=green1210&label=Profile+Views&color=0e75b6&style=flat-square" alt="green1210" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/MERN%20Stack-Full--Stack-green?style=flat-square&logo=react" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/AI%2FML-Enthusiast-purple?style=flat-square&logo=python" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Prompt%20Engineer-Creative-red?style=flat-square&logo=openai" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Data%20Analyst-In%20Progress-blue?style=flat-square&logo=google-analytics" />
-</p>
-
 
 <!-- Top Banner -->
 <p align="center">
