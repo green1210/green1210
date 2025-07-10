@@ -38,9 +38,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Nagamanikanta%20Nallaganchu&fontSize=60&animation=fadeIn" alt="Nagamanikanta Nallaganchu" />
 </p>
 
-<!-- 🧠 Typing Animation -->
+<!-- ✅ Typing Role Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=🚀+Full-Stack+Developer;🤖+AI+%26+ML+Enthusiast;📊+Aspiring+Data+Analyst;🧠+Prompt+Engineer+%7C+Creative+Technologist" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=🚀+Full-Stack+Developer;🤖+AI+%26+ML+Enthusiast;📊+Aspiring+Data+Analyst;🧠+Prompt+Engineer+%7C+Tech+Problem+Solver" alt="Typing Animation" />
 </p>
 
 <!-- ✨ Tagline -->
