@@ -17,6 +17,36 @@
 </p>
 
 
+<!-- Top Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00F4,100:E60073&height=180&section=header&text=Nagamanikanta%20Nallaganchu&fontSize=45&fontAlignY=40&animation=fadeIn" />
+</p>
+
+<!-- Animated Subtitle with Icon -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=🚀+Full-Stack+Developer;🤖+AI+%26+ML+Enthusiast;📊+Aspiring+Data+Analyst;🧠+Prompt+Engineer+%7C+Tech+Problem+Solver" alt="Typing Animation" />
+</p>
+
+<!-- Tagline -->
+<p align="center">
+  <b><i>Mastering data analytics, building intelligent web solutions, and pushing the boundaries of AI</i></b>
+</p>
+
+<!-- Animated Divider Line -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="70%" />
+</p>
+
+<!-- Stats and Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=green1210&label=Profile+views&color=0e75b6&style=flat-square" alt="green1210" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/MERN%20Stack-Full--Stack-green?style=flat-square&logo=react" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/AI%2FML-Enthusiast-purple?style=flat-square&logo=python" />
+</p>
+
+
 ---
 
 ### 👨‍💻 About Me
