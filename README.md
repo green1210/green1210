@@ -36,12 +36,6 @@
 </p>
 
 
-
-<!-- Top Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00F4,100:E60073&height=180&section=header&text=Nagamanikanta%20Nallaganchu&fontSize=45&fontAlignY=40&animation=fadeIn" />
-</p>
-
 ---
 
 ### 👨‍💻 About Me
