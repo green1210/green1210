@@ -64,12 +64,11 @@
 
 ---
 
-### 📈 GitHub Stats
+## 🎯 Vision
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NagamanikantaNallaganchu&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NagamanikantaNallaganchu&theme=radical" alt="GitHub Streak" />
-</div>
+- 📊 **Become a data-driven decision maker** using advanced analytics
+- 🌍 **Build real-world solutions** that solve genuine user pain-points
+- 🤖 **Contribute to AI & prompt engineering-based open source projects**
 
 ---
 
