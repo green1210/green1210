@@ -2,10 +2,9 @@
 <p align="center style="margin-bottom: -30px;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Nagamanikanta%20Nallaganchu&fontSize=60&animation=fadeIn" alt="Nagamanikanta Nallaganchu" />
 </p>
-
-<!-- ✅ Typing Animation (fully working) -->
+<!-- ✅ Typing Role Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFEA&center=true&vCenter=true&width=800&lines=🚀+Full-Stack+Developer;🤖+AI+%26+ML+Enthusiast;📊+Aspiring+Data+Analyst;🧠+Prompt+Engineer+%7C+Creative+Technologist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0FFFC3&center=true&vCenter=true&width=900&lines=🚀+Full-Stack+Developer;🤖+AI+%26+ML+Enthusiast;📊+Aspiring+Data+Analyst;🧠+Prompt+Engineer+%7C+Tech+Problem+Solver" alt="Typing Animation" />
 </p>
 
 <!-- ✅ Typing Role Animation -->
