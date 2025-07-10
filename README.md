@@ -2,7 +2,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Nagamanikanta%20Nallaganchu&fontSize=45&fontAlign=50&animation=fadeIn" alt="Nagamanikanta Nallaganchu Banner" />
 </p>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Nagamanikanta%20Nallaganchu&fontSize=60&animation=fadeIn" alt="Nagamanikanta Nallaganchu" />
 
 <!-- ✅ Typing Role Animation -->
 <p align="center">
