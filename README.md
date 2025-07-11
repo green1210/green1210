@@ -81,8 +81,6 @@
 | **Library Management**     | CLI tool for book tracking using Python & MySQL                           | [Repo](https://github.com/green1210/Library_Management)   |
 | **TweetSentiment**      | Sentiment analysis on tweets using TF-IDF & Logistic Regression (~79% acc.) | [Repo](https://github.com/green1210/Sentiment_Analysis_on_Tweets)   |
 
-> 📌 *Live demos & screenshots are available in respective repos.*
-
 
 > 📌 *Live demos & screenshots are available in respective repos.*
 
