@@ -74,11 +74,15 @@
 | 🚀 Project               | 💡 Description                                                            | 🔗 Link      |
 |-------------------------|----------------------------------------------------------------------------|-------------|
 | **UniConnect**          | Campus portal for resources, feedback & issue reporting (Final Year BTP) | [Repo](#)   |
-| **Zenlify**             | Scalable full-stack e-commerce app (MERN + Vite)                          | [Repo](#)   |
-| **Reeltix**             | AI-generated movie ticket booking site using TMDB API                     | [Repo](#)   |
+| **Zenlify**             | Scalable full-stack e-commerce app (MERN + Vite)                          | [Live](#)   |
+| **Reeltix**             | AI-generated movie ticket booking site using TMDB API                     | [Live](#)   |
 | **Portfolio Website**   | Minimal, modern personal portfolio built with React & TailwindCSS         | [Live](#)   |
-| **Taskflow**            | Sleek Kanban-style task manager with auth (Node, Express, MongoDB)        | [Repo](#)   |
+| **Taskflow**            | Sleek Kanban-style task manager with auth (Node, Express, MongoDB)        | [Live](#)   |
 | **Library Manager**     | CLI tool for book tracking using Python & MySQL                           | [Repo](#)   |
+| **TweetSentiment**      | Sentiment analysis on tweets using TF-IDF & Logistic Regression (~79% acc.) | [Repo](#)   |
+
+> 📌 *Live demos & screenshots are available in respective repos.*
+
 
 > 📌 *Live demos & screenshots are available in respective repos.*
 
