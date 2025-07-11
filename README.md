@@ -73,13 +73,13 @@
 
 | 🚀 Project               | 💡 Description                                                            | 🔗 Link      |
 |-------------------------|----------------------------------------------------------------------------|-------------|
-| **UniConnect**          | Campus portal for resources, feedback & issue reporting (Final Year BTP) | [Repo](#)   |
-| **Zenlify**             | Scalable full-stack e-commerce app (MERN + Vite)                          | [Live](#)   |
-| **Reeltix**             | AI-generated movie ticket booking site using TMDB API                     | [Live](#)   |
+| **UniConnect**          | Campus portal for resources, feedback & issue reporting (Final Year BTP) | [Live](#)   |
+| **Zenlify**             | Scalable full-stack e-commerce app (MERN + Vite)                          | [Live](https://zenlify.vercel.app/)   |
+| **Reeltix**             | AI-generated movie ticket booking site using TMDB API                     | [Live](https://reeltix.vercel.app/)   |
 | **Portfolio Website**   | Minimal, modern personal portfolio built with React & TailwindCSS         | [Live](#)   |
-| **Taskflow**            | Sleek Kanban-style task manager with auth (Node, Express, MongoDB)        | [Live](#)   |
-| **Library Manager**     | CLI tool for book tracking using Python & MySQL                           | [Repo](#)   |
-| **TweetSentiment**      | Sentiment analysis on tweets using TF-IDF & Logistic Regression (~79% acc.) | [Repo](#)   |
+| **Taskflow**            | Sleek Kanban-style task manager with auth (Node, Express, MongoDB)        | [Live](https://taskflow-seven-rho.vercel.app/)   |
+| **Library Management**     | CLI tool for book tracking using Python & MySQL                           | [Repo](https://github.com/green1210/Library_Management)   |
+| **TweetSentiment**      | Sentiment analysis on tweets using TF-IDF & Logistic Regression (~79% acc.) | [Repo](https://github.com/green1210/Sentiment_Analysis_on_Tweets)   |
 
 > 📌 *Live demos & screenshots are available in respective repos.*
 
