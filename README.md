@@ -24,13 +24,13 @@
 
 <!-- 🏷️ Skill Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/MERN%20Stack-Full--Stack-green?style=flat-square&logo=react" />
+    <img src="https://img.shields.io/badge/Data%20Analyst-In%20Progress-blue?style=flat-square&logo=google-analytics" />
   &nbsp;
   <img src="https://img.shields.io/badge/AI%2FML-Enthusiast-purple?style=flat-square&logo=python" />
   &nbsp;
   <img src="https://img.shields.io/badge/Prompt%20Engineer-Creative-red?style=flat-square&logo=openai" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Data%20Analyst-In%20Progress-blue?style=flat-square&logo=google-analytics" />
+  <img src="https://img.shields.io/badge/MERN%20Stack-Full--Stack-green?style=flat-square&logo=react" />
 </p>
 
 
@@ -40,7 +40,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 **[Parul University](https://www.paruluniversity.ac.in/)**, Vadodara, Gujarat (Class of 2026)
-- 💻 **Full-Stack Developer (MERN)**, **AI/ML Enthusiast**, **Data Analyst** & **Prompt Engineer**
+- 💻 **Data Analyst**, **AI/ML Enthusiast**, **Full-Stack Developer (MERN)** & **Prompt Engineer**
 - 🧠 Passionate about data insights, clean code, and scalable architectures
 - 🌐 **Languages**: Telugu • English • Hindi
 - ✨ **Fun Fact**: My social name is **Green**!
