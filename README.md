@@ -24,7 +24,7 @@
 
 <!-- 🏷️ Skill Badges -->
 <p align="center">
-    <img src="https://img.shields.io/badge/Data%20Analyst-In%20Progress-blue?style=flat-square&logo=google-analytics" />
+  <img src="https://img.shields.io/badge/Data%20Analyst-In%20Progress-blue?style=flat-square&logo=google-analytics" />
   &nbsp;
   <img src="https://img.shields.io/badge/AI%2FML-Enthusiast-purple?style=flat-square&logo=python" />
   &nbsp;
